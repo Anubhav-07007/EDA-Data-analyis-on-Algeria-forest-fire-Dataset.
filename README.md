@@ -1,0 +1,1 @@
+# EDA-Data-analyis-on-Algeria-forest-fire-Dataset.
